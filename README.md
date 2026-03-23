@@ -1,6 +1,7 @@
 # first.py
-This is my first Python project. 
-<br>
-It performs basic mathematical operations like addition, subtraction, multiplication, and division. 
+Hey, I'm vaishnav. 
 <br> 
-I created this while learning Python.
+This is my first projects while learning python and finance regarding stuff, as well stocks markets.
+<br> 
+here are some of mine projects..
+
